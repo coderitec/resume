@@ -4,7 +4,7 @@ This is a personal resume project built using **React** and **Next.js**. It feat
 
 ## 🔗 Live Site
 
-👉 [View Live Resume](https://coderitec.github.io/resume)
+👉 [View Live Resume](https://resume-psi-gray.vercel.app/)
 
 ## 🧰 Tech Stack
 
